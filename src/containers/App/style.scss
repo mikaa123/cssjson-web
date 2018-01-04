@@ -1,0 +1,10 @@
+.elts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 20px;
+  width: 100%;
+}
+
+textarea {
+  height: 300px;
+}
